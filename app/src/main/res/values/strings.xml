@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppClient</string>
+    <string name="ipAdd">IPv4 Address</string>
+    <string name="sport">Port No.</string>
+</resources>
