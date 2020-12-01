@@ -20,7 +20,8 @@ The app establish a TCP communication between PC and Android device.
 
 # Running the Client App and Starting the Connection
 1. Enter the port no. and IP Address of your pc/laptop.
-![image](https://user-images.githubusercontent.com/63636498/90416331-f6b30180-e0cf-11ea-98de-f3a94fa34b63.png)
+<img src="https://user-images.githubusercontent.com/63636498/90416331-f6b30180-e0cf-11ea-98de-f3a94fa34b63.png" alt="image" width="600"/>
+
 2. Click `Connect` button.
 
 # Send Messages
@@ -31,3 +32,5 @@ The app establish a TCP communication between PC and Android device.
 
 # Closing Connection
 1. Send the message `Over` to Server to close the sockets.
+
+Have a look on my [Notes](https://github.com/ABD-01/Android_TCP_Client_Application/blob/master/Notes.md)
