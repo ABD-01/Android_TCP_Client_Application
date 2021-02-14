@@ -3,7 +3,7 @@ The app establish a TCP communication between PC and Android device.
 
 *Click [here](https://github.com/ABD-01/Android_TCP_Client_Application/raw/master/TcpClientApp.apk) to download the .apk file.*
 
-See my [Notes](https://github.com/ABD-01/Android_TCP_Client_Application/blob/master/Notes.md)
+See my [Notes](https://hackmd.io/@ABD/SylcS64Xv)
 
 # Start a Server (in PC/Laptop)
 #### 1.Using Java Server Class
